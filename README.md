@@ -1,5 +1,7 @@
 # Emailform Angular App
 
+Simple one-page design that features a email form with validation included.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.9.
 
 ## Prerequisites
